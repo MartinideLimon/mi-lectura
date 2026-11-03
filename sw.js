@@ -1,4 +1,4 @@
-const CACHE_NAME = 'mi-lectura-dark-academia-v3';
+const CACHE_NAME = 'mi-lectura-pwa-v2';
 const APP_SHELL = [
   './',
   './index.html',
